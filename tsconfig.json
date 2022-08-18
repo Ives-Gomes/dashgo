@@ -13,8 +13,8 @@
       "@styles/*": [
         "./src/styles/*"
       ],
-      "@service/*": [
-        "./src/service/*"
+      "@contexts/*": [
+        "./src/contexts/*"
       ],
     },
     "allowJs": true,

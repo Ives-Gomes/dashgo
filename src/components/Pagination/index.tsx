@@ -5,7 +5,7 @@ import PaginationItem from '@components/Pagination/PaginationItem';
 export default function Pagination() {
   return (
     <Stack
-      direction="row"
+      direction={["column", "row"]}
       mt="8"
       justify="space-between"
       align="center"

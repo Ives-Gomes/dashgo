@@ -16,6 +16,9 @@
       "@contexts/*": [
         "./src/contexts/*"
       ],
+      "@services/*": [
+        "./src/services/*"
+      ],
     },
     "allowJs": true,
     "skipLibCheck": true,
